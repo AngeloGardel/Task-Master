@@ -6,21 +6,61 @@ O projeto utiliza **LocalStorage para persistência de dados**, permitindo que u
 
 ---
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
-### 🔐 Sistema de Autenticação
-- Cadastro de usuários
-- Login com email e senha
-- Logout
-- Validação de formulários
+- Cadastro e login de usuários
+- Adição de novas tarefas
+- Definição de prioridade (baixa, média, alta)
+- Marcar tarefas como concluídas
+- Excluir tarefas
+- Filtros de tarefas (todas, pendentes, concluídas e prioritárias)
+- Estatísticas de tarefas
 
 ---
 
-### 📋 Gerenciamento de Tarefas
-- Criar novas tarefas
-- Marcar tarefas como concluídas
-- Excluir tarefas
-- Definir prioridade:
-  - 🔴 Alta
-  - 🟠 Média
-  - 🟢 Baixa
+## Tecnologias
+
+- HTML5
+- CSS3
+- JavaScript
+- LocalStorage
+
+---
+
+## Como executar o projeto
+
+1. Clone o repositório
+
+git clone https://github.com/AngeloGardel/task-master.git
+
+2. Acesse a pasta do projeto
+
+cd task-master
+
+3. Abra o arquivo `index.html` no navegador.
+
+---
+
+## Estrutura do projeto
+
+
+task-master
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+
+---
+
+## Observação
+
+Este projeto utiliza um **hash simples para senha e armazenamento no navegador**, sendo destinado para fins de estudo e prática de JavaScript.
+
+---
+
+## Autor
+
+AngeloGardel  
+https://github.com/AngeloGardel
