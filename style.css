@@ -326,12 +326,12 @@ body::before {
 }
 
 .btn-add {
-    padding: 14px 24px;
+    padding: 8px 12px;
     background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
     color: white;
     border: none;
     border-radius: 10px;
-    font-size: 1rem;
+    font-size: 0.9rem;
     font-weight: 600;
     cursor: pointer;
     display: flex;
