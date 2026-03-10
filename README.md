@@ -43,13 +43,13 @@ cd task-master
 
 ## Estrutura do projeto
 
-
-task-master
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+```
+task-master/
+  index.html
+  style.css
+  script.js
+  README.md
+```
 
 
 ---
@@ -60,7 +60,7 @@ Este projeto utiliza um **hash simples para senha e armazenamento no navegador**
 
 ---
 
-## Autor
+## Autor:
 
 AngeloGardel  
 https://github.com/AngeloGardel
